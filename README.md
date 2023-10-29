@@ -1,4 +1,7 @@
+🚀 --  2nd React App  -- 🚀
+
 🚀 -- React JS Injection via Parcel -- 🚀
+
 
 To run
 
